@@ -33,3 +33,22 @@ Screenshots:
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/personal_projects/unfollower.png" alt="Unfollower App Unfollower List" class="full"/>
 <br/><br/>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/personal_projects/example.png" alt="Unfollower App Example" class="full"/>
+
+---
+### Learning
+
+Outside of work and class, I have been able to expand my programming knowledge through, for example:
+
+**Codecademy Courses**
+- Learn Java
+- Learn Python 2
+- Learn React
+- How to Make a Website with NameCheap
+- Learn SQL
+- Learn JavaScript
+- Learn Ruby
+- Learn Ruby on Rails
+
+**Certifications**
+- [Triplebyte Mobile-Android Certificate](https://triplebyte.com/tb/nathan-james-basa-ygvdkop/certificate/track/android): Scored in top 10% of test takers on the Triplebyte Assessment for Android Engineering
+- [CITI Social & Behavioral Research - Basic/Refresher Certificate](https://www.citiprogram.org/verify/?w21eb9426-10f5-44a4-9dfd-ed4384475c20-31095841): Completed an introductory course covering social-behavioral-educational research with a focus on the protection of human subjects
