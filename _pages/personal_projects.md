@@ -6,7 +6,7 @@ title: Personal Projects
 Here's a glimpse of several projects that I authored in my free time along with the technologies leveraged.
 
 ### Favorites Gallery App
-This web app uses carousels (yes, lazy loading!), a navbar, and a router in order to display galleries of some of my favorite things. It was a product of my goal to improve my frontend abilities. Check out the app [here](https://favorites-gallery.herokuapp.com/) and the code [here](https://github.com/jamesbasa/Favorites-Gallery-App)!<br/>
+This web app uses carousels (yes, lazy loading!), a navbar, and a router in order to display galleries of some of my favorite things. It was a product of my goal to improve my frontend abilities. Check out the app [here](https://favorites-gallery.herokuapp.com/) and the code [here](https://github.com/jamesbasa/Favorites-Gallery-App)!
 
 ```
 ReactJS, React Router, React Bootstrap, React Slick, Heroku
@@ -20,7 +20,7 @@ Screenshots:
 
 ---
 ### Instagram Unfollow Bot
-This web app fulfills a need that I saw in the social media community arising from the lack of a secure way to check who has unfollowed oneself on Instagram. Check out the app [here](https://github.com/jamesbasa/Instagram-Unfollow-Bot).<br/>
+This web app fulfills a need that I saw in the social media community arising from the lack of a secure way to check who has unfollowed oneself on Instagram. Check out the app [here](https://github.com/jamesbasa/Instagram-Unfollow-Bot).
 
 ```
 Python, Selenium, ChromeDriver
