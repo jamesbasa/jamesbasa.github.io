@@ -1,0 +1,9 @@
+main:
+  - title: "Personal Projects"
+    url: /personal_projects/
+  - title: "College Projects"
+    url: /college_projects/
+  - title: "Publications"
+    url: /publications/
+  - title: "Miscellaneous"
+    url: /miscellanous/
