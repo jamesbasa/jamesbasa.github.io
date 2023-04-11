@@ -6,7 +6,7 @@ title: College Projects
 At UC San Diego, I was fortunate enough to architect and collaborate on meaningful projects.
 
 ### EMSTrack
-Through the GlobalTies nonprofit program, I co-developed the mobile and web components of the ambulance dispatching app **EMSTrack** for [Cruz Roja Tijuana](https://globalties.ucsd.edu/projects/cruz-roja-tijuana.html). This platform allowed Cruz Roja Tijuana to overcome their  limitations stemming from radio communication to dispatch EMS.
+Through the GlobalTies nonprofit program, I co-developed the mobile and web components of the ambulance dispatching app **EMSTrack** for [Cruz Roja Tijuana](https://globalties.ucsd.edu/what/projects/cruz-roja-tijuana.html). This platform allowed Cruz Roja Tijuana to overcome their  limitations stemming from radio communication to dispatch EMS.
 
 As Team Lead, I organized weekly meetings and oversaw collaboration between our development, UI prototype, and business subteams. Our work was especially significant in the springtime since COVID-19 became widespread, as revealed in this [Fox article](https://fox5sandiego.com/news/border-report/uc-san-diego-professors-students-create-app-to-improve-tijuanas-ambulance-service/) and [Voice of San Diego article](https://www.voiceofsandiego.org/topics/news/border-report-tech-is-making-better-use-of-tijuanas-ambulances/). Check out the code [here](https://github.com/EMSTrack/CleanApp).
 
