@@ -15,7 +15,7 @@ Welcome!
 
 🔱 I'm a UC San Diego alumni with a Bachelor's in Computer Engineering (class of 2021, minor in Music).
 
-Highlights of my experience include software engineering, research, humanitarian-focused projects, and IEEE workshops——all of which helped strengthen my interpersonal and technical skills.
+Highlights of my experience include software engineering, research, humanitarian-focused projects, and IEEE workshops—all of which helped strengthen my interpersonal and technical skills.
 
 💻 Most recently, I enjoyed working on advancing education at MasterClass as a Software Engineer. I spent 2 years there, having converted from intern to full-time.
 
