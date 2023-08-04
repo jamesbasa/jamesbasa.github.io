@@ -17,7 +17,7 @@ Welcome!
 
 Highlights of my experience include software engineering, research, humanitarian-focused projects, and IEEE workshops—all of which helped strengthen my interpersonal and technical skills.
 
-💻 Most recently, I enjoyed working on advancing education at MasterClass as a Software Engineer. I spent 2 years there, having converted from intern to full-time.
+💻 Most recently, I enjoyed working on advancing education and scaling the commerce platform at MasterClass as a Software Engineer. There I spent 2 years, having converted from intern to full-time.
 
 My past occupations have a theme of working interpersonally: engineer, code instructor, teacher, cashier. Overall, I believe in working collaboratively to improve the lives of others using technology.
 

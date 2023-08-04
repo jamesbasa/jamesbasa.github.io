@@ -9,7 +9,7 @@ Here's a glimpse of several projects that I authored in my free time along with 
 An API and web form that collects and displays reviews from LendingTree. Check out the code [here](https://github.com/jamesbasa/Review-Collector)!
 
 ```
-Ruby on Rails, Ruby gems, RSpec
+Ruby on Rails, RSpec, HTML, CSS, Postman
 ```
 
 Screenshots:
