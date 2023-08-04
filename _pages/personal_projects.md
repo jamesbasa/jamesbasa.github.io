@@ -5,6 +5,18 @@ title: Personal Projects
 
 Here's a glimpse of several projects that I authored in my free time along with the technologies leveraged.
 
+### Review Collector App
+An API and web form that collects and displays reviews from LendingTree. Check out the code [here](https://github.com/jamesbasa/Review-Collector)!
+
+```
+Ruby on Rails, Ruby gems, RSpec
+```
+
+Screenshots:
+
+<img src="https://github.com/jamesbasa/Review-Collector/blob/main/review_collector/docs/presentation/review_collector.png?raw=true" alt="Review Collector presentation" class="full"/>
+
+---
 ### Favorites Gallery App
 This web app uses carousels (yes, lazy loading!), a navbar, and a router in order to display galleries of some of my favorite things. It was a product of my goal to improve my frontend abilities. Check out the app [here](https://favorites-gallery.herokuapp.com/) and the code [here](https://github.com/jamesbasa/Favorites-Gallery-App)!
 
