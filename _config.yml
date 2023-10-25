@@ -109,7 +109,7 @@ analytics:
 author:
   name             : # *my_name
   avatar           : "/assets/images/IEEE.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Software Engineer looking to make the world a better place."
+  bio              : "Software Engineer with a goal of making the world a better place."
   location         : # ""
   email            : # ""
   links:
@@ -124,7 +124,7 @@ author:
       url: "https://github.com/jamesbasa"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?user=0Soiru4AAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=u7J1SQQAAAAJ&hl=en"
 
 
 # Site Footer
@@ -138,7 +138,7 @@ footer:
       url: "https://github.com/jamesbasa"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?user=0Soiru4AAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=u7J1SQQAAAAJ&hl=en"
 
 
 # Reading Files
