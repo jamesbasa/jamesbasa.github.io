@@ -17,7 +17,7 @@ Welcome!
 
 Highlights of my experience include software engineering, research, humanitarian-focused projects, and IEEE workshops—all of which helped strengthen my interpersonal and technical skills.
 
-💻 Most recently, I enjoyed working on advancing education and scaling the commerce platform at MasterClass as a Software Engineer. There I spent 2 years, having converted from intern to full-time.
+💻 Most recently, I've been contributing my expertise to drive the growth of [WebSpot's](https://catherine.onwebspot.com/) innovative platform as a Software Engineer, actively shaping our product during its emergence from stealth mode and refining my full-stack development skills. Prior to this role, I worked on advancing education and scaling the commerce platform at MasterClass as a Software Engineer, where I spent 2 years, having converted from intern to full-time.
 
 My past occupations have a theme of working interpersonally: engineer, code instructor, teacher, cashier. Overall, I believe in working collaboratively to improve the lives of others using technology.
 
