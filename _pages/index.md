@@ -13,7 +13,7 @@ title: About Me
 
 Welcome!
 
-🔱 I'm James, a UC San Diego alumni with a Bachelor's in Computer Engineering (class of 2021, minor in Music).
+🔱 I'm James, a UC San Diego alumni with a Bachelor's in Computer Engineering (class of 2021, minor in Music) and 2.5+ years of software engineering experience.
 
 Highlights of my experience include software engineering, research, humanitarian-focused projects, and IEEE workshops—all of which helped strengthen my interpersonal and technical skills.
 
