@@ -6,11 +6,8 @@ title: Miscellaneous
 ### Music
 I've been producing music since 2016. Feel free to listen to my work below!
 
-🎵 [YouTube](https://youtube.com/@jamestarbeats)
-
-🎵 [Beatstars](https://jamestar.beatstars.com/about)
+🎵 [Linktree](https://linktr.ee/jamestar)
 
 ---
 
-### Custom Websites
-Coming soon...
+More coming soon...
