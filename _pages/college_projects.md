@@ -40,9 +40,9 @@ Screenshots:
 
 ---
 ### Data Science Report
-I authored a **data science report** in the form of a Jupyter Notebook for my final project in COGS 108: Data Science in Practice. I carried out an analysis to describe the relationship between the amount of different amenities and review ratings of public parks, and between amount of different amenities and review count of public parks, specifically in San Diego County.
+I authored a **data science report** in the form of a Jupyter Notebook for my final project in COGS 108: Data Science in Practice. In this analysis, I examined the relationship between the number of different amenities and the review ratings of public parks, as well as the relationship between the number of different amenities and the review count, specifically for parks in San Diego County.
 
-Surprisingly, my analysis revealed a negative correlation between both of the relationships. The correlation suggested that a higher amount of different amenities results in lower review ratings, while a higher amount of different amenities results in less review counts. Check out my report [here](https://github.com/jamesbasa/individual_fa20/blob/master/final_project/FinalProject_jamesbasa.ipynb).
+Surprisingly, my analysis revealed a negative correlation in both cases. The findings suggested that a higher number of amenities is associated with lower review ratings, as well as fewer review counts. You can check out my report [here](https://github.com/jamesbasa/individual_fa20/blob/master/final_project/FinalProject_jamesbasa.ipynb).
 
 ```
 Python, NumPy, Pandas, Matplotlib, Seaborn, OLS regression
@@ -56,7 +56,7 @@ Screenshots:
 
 ---
 ### Circuits
-Lastly, I constructed cool **electronic circuits** through several IEEE workshops. Here, you can see 4 such circuits — an Arduino piano, a POV light display that spells out "Hello World" when rotating, a heart-shaped circuit programmed through Arduino, and a wireless power circuit.
+Lastly, I built exciting **electronic circuits** through various IEEE workshops. Here, you can see 4 such circuits — an Arduino piano, a POV light display that spells out "Hello World" when rotating, a heart-shaped circuit programmed through Arduino, and a wireless power circuit.
 
 Screenshots:
 
