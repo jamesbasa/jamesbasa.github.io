@@ -4768,9 +4768,16 @@ body {
 
 .author__avatar {
     display: table-cell;
-    vertical-align: top;
+    vertical-align: middle;
     width: 36px;
     height: 36px
+}
+
+@media (min-width: 37.5em) {
+    .author__avatar {
+        width: 100px;
+        height: 100px
+    }
 }
 
 @media (min-width: 64em) {
@@ -4795,7 +4802,7 @@ body {
 
 .author__content {
     display: table-cell;
-    vertical-align: top;
+    vertical-align: middle;
     padding-left: 15px;
     padding-right: 25px;
     line-height: 1
