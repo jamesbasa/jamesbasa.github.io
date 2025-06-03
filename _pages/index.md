@@ -13,7 +13,7 @@ title: About Me
 
 Welcome!
 
-💻 I'm James, a full-stack software engineer with 3 years of web development experience, currently working at [Amazon One Medical](https://www.onemedical.com/) on the member-facing experience.
+💻 I'm James, a full-stack software engineer with over 3 years of web development experience, currently working at [Amazon One Medical](https://www.onemedical.com/) on the member-facing experience.
 
 🔱 I'm a UC San Diego alumni with a Bachelor's in Computer Engineering (class of 2021) and a minor in Music. Highlights of my college experience include software engineering, research, humanitarian-focused projects, and IEEE workshops—all of which helped strengthen my interpersonal and technical skills.
 
