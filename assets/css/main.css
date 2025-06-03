@@ -4769,8 +4769,8 @@ body {
 .author__avatar {
     display: table-cell;
     vertical-align: middle;
-    width: 36px;
-    height: 36px
+    width: 44px;
+    height: 44px
 }
 
 @media (min-width: 37.5em) {
